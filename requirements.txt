@@ -1,0 +1,4 @@
+pandas
+azure-storage-blob
+sqlalchemy
+psycopg2-binary
